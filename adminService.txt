@@ -4,5 +4,4 @@ manage database
 closing the connection
 
 change1
-<<<<<<< 
 change2 in vara database
