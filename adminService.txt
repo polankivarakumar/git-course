@@ -1,7 +1,7 @@
 to add and remove the users
 to change roles of users
 manage database
-closing the connection
+closing the database connection
 
 change1
 change2 in vara database
